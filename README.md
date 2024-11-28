@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn programming language
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me by e-mail (eliasouza1985@gmail.com
+- 📫 How to reach me by e-mail (eliasouza1985@gmail.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: calm down, I'm learning
 
